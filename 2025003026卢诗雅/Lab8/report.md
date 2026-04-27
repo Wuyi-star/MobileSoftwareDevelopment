@@ -66,7 +66,7 @@ object HeroesRepository {
 
 - 英雄描述使用 bodyLarge 样式，常规字重。
 
-- 图片大小固定 72dp，圆角 8dp，裁剪方式为 ContentScale\.Crop。
+- 图片大小固定 72dp，圆角 8dp，裁剪方式为 ContentScale.Crop。
 
 - 内容内边距 16dp，文字与图片间距 16dp。
 
